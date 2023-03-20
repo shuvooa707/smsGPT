@@ -3,7 +3,7 @@ const { Configuration, OpenAIApi } = require("openai");
 const prompt = require('prompt-sync')();
 const { exec } = require('child_process');
 const configuration = new Configuration({
-    apiKey: "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",
+    apiKey: "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",
 });
 const openai = new OpenAIApi(configuration);
   
@@ -15,7 +15,7 @@ const questions =  JSON.parse(inputData);
 (async () => {
     for (let index = 0; index < questions.length; index++) { 
         let question = questions[index];
-        if ( question.question ) continue;
+        if ( question.answer ) continue;
 
         try {
             console.log(`${index}. `);
