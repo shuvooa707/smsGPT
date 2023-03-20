@@ -1,0 +1,220 @@
+1. How can you implement multiple interfaces in a class in Java?
+2. Can an interface have instance variables in Java?
+3. Can we create a private interface in Java?
+4. Can an interface extend another interface in Java?
+5. Can an abstract class implement an interface in Java?
+6. Can a class implement two interfaces having a method with the same name and signature in Java?
+7. Can an interface have static methods in Java?
+8. Can an interface have a constructor in Java?
+9. What is a marker interface in Java?
+10. How can we declare a constant in an interface in Java?
+11. Are the methods of an interface public by default in Java?
+12. Can an interface inherit from a class in Java?
+13. What is a functional interface in Java?
+14. Can we declare the default method in an interface as final in Java?
+15. Can we access a private method of an interface in a class that implements it in Java?
+16. Can an interface extend a class in Java?
+17. Can we create an object of an interface in Java?
+18. What is the difference between an abstract class and an interface in Java?
+19. What is the difference between a concrete class and an interface in Java?
+20. What is the use of the 'default' keyword in an interface in Java?
+21. Can an interface have a protected method in Java?
+22. How can we implement a method of an interface in a class in Java?
+23. Can an interface have a return type of void in Java?
+24. What is the use of the 'static' keyword in an interface in Java?
+25. Can we use 'final' keyword with a variable in an interface in Java?
+26. What is the use of the 'transient' keyword in an interface in Java?
+27. Can an interface have a synchronized method in Java?
+28. How can we extend the functionality of an interface without modifying it in Java?
+29. What is the use of the @FunctionalInterface annotation in Java?
+30. Can we declare a constructor as public in an interface in Java?
+31. What is the use of the 'strictfp' keyword in an interface in Java?
+32. Can an interface have a non-static method in Java?
+33. Is it possible to have an interface that doesn't have any method declarations in Java?
+34. What is the use of the 'extends' keyword in an interface in Java?
+35. Can an interface have a final method in Java?
+36. What is the use of the 'volatile' keyword in an interface in Java?
+37. How can we declare a method as abstract in an interface in Java?
+38. Can we overload a method in an interface in Java?
+39. How can we implement a default method in an interface in Java?
+40. Can an interface have a static final variable in Java?
+41. Can an interface have a main method in Java?
+42. How can we implement a private method in an interface in Java?
+43. Can an interface be instantiated in Java?
+44. Can an interface contain a protected data member in Java?
+45. How can we implement multiple inheritance in Java using interfaces?
+46. Can an interface implement another interface in Java?
+47. What is the use of the @Override annotation in an interface method in Java?
+48. Can an interface have a default constructor in Java?
+49. How can we declare an abstract method as private in an interface in Java?
+50. Can we use the 'synchronized' keyword with a method in an interface in Java?
+51. Can an interface have a method with a variable number of arguments in Java?
+52. What is the use of the 'final' keyword in an interface method in Java?
+53. Can an interface have a static block in Java?
+54. How can we declare an interface as final in Java?
+55. Can an interface have a public static final variable in Java?
+56. How can we declare an interface in Java?
+57. Can an interface have a protected constructor in Java?
+58. Can an interface have a protected method with a final keyword in Java?
+59. Can an interface have a parameterized method in Java?
+60. Can we override a private method of an interface in a class that implements it in Java?
+61. What is the use of the 'this' keyword in an interface method in Java?
+62. Can we declare a private method as abstract in an interface in Java?
+63. How can we create an object of an interface in Java?
+64. Can we use the 'this' keyword to refer to an interface in Java?
+65. Can an interface have a method with a variable number of parameters in Java?
+66. What is the use of the 'super' keyword in an interface in Java?
+67. Can an interface have a private static method in Java?
+68. How can we modify the behavior of a method in an interface in Java?
+69. Can an interface have a protected variable in Java?
+70. Can we declare a method as private and final in an interface in Java?
+71. What is the use of the 'implements' keyword in Java?
+72. Can an interface have a synchronized block in Java?
+73. How can we declare an interface as abstract in Java?
+74. Can an interface have a final variable in Java?
+75. How can we use interfaces to achieve polymorphism in Java?
+76. Can an interface have a method with a default access modifier in Java?
+77. What is the use of the 'throws' keyword in an interface in Java?
+78. Can an interface have a final method with a synchronized keyword in Java?
+79. Can we declare a method as abstract and final in an interface in Java?
+80. How can we declare a method as final and synchronized in an interface in Java?
+81. Can an interface have a private final method in Java?
+82. What is the use of the 'volatile' keyword in an interface variable in Java?
+83. Can we use the 'extends' keyword to extend an interface in Java?
+84. Can an interface have a protected final method in Java?
+85. Does an interface have access modifiers in Java?
+86. Can an interface have a static method with a synchronized keyword in Java?
+87. What is the use of the 'native' keyword in an interface in Java?
+88. Can an interface have a private static final variable in Java?
+89. How can we declare a method as final and abstract in an interface in Java?
+90. Can an interface have a non-static final variable in Java?
+91. Can we declare a private method as final and synchronized in an interface in Java?
+92. What is the use of the 'strictfp' keyword in an interface variable in Java?
+93. Can an interface have a protected static method in Java?
+94. Can we use the 'implements' keyword to implement a class in Java?
+95. How can we access a private method of an interface in the same interface in Java?
+96. Can an interface have a synchronized variable in Java?
+97. What is the use of the 'volatile' keyword in an interface method in Java?
+98. Can an interface have a protected static final method in Java?
+99. Can we override a final method of an interface in Java?
+100. How can we define an interface in Java that has all the methods from another interface along with additional ones?
+101. Can an interface have a default method with a synchronized keyword in Java?
+102. What is the use of the 'instanceof' operator in Java?
+103. Can an interface have a non-static final method in Java?
+104. How can we define a functional interface that returns a value in Java?
+105. Can an interface have a non-static final variable with a synchronized keyword in Java?
+106. What is the use of the 'clone' method in an interface in Java?
+107. Can an interface have a default method with a final keyword in Java?
+108. How can we define an interface in Java that has a single method with a single argument?
+109. Can an interface have a mix of default and abstract methods in Java?
+110. What is the use of the 'instanceof' operator in conjunction with interfaces in Java?
+111. Can an interface have a default method with a static keyword in Java?
+112. How can we define an interface in Java that has no methods at all?
+113. Can an interface have a protected static final variable in Java?
+114. What is the use of the 'super' keyword in conjunction with interfaces in Java?
+115. Can an interface have a private static final method in Java?
+116. How can we define an interface in Java that has a single method with multiple arguments?
+117. Can an interface have a default method with an abstract keyword in Java?
+118. What is the use of the 'transient' keyword in an interface variable with a final keyword in Java?
+119. Can an interface have a protected final variable with a static keyword in Java?
+120. How can we define an interface in Java that extends another interface and adds additional methods?
+121. Can an interface have a method that throws checked exceptions in Java?
+122. What is the use of the 'default' keyword in conjunction with interfaces in Java?
+123. Can an interface have a private final variable with a static keyword in Java?
+124. How can we define an interface in Java that has a method with a variable number of arguments?
+125. Can an interface have a default method with a synchronized keyword and a final keyword in Java?
+126. What is the use of the '@deprecated' annotation in an interface in Java?
+127. Can an interface have a static final variable with a synchronized keyword in Java?
+128. How can we define an interface in Java that has a method that returns another interface?
+129. Can an interface have a default method with a synchronized keyword and an abstract keyword in Java?
+130. What is the use of the '@FunctionalInterface' annotation in conjunction with interfaces in Java?
+131. Can an interface have a private static final variable in Java?
+132. How can we define an interface in Java that has a generic method?
+133. Can an interface have a default method that calls another default method in Java?
+134. What is the use of the '@Override' annotation in conjunction with interfaces in Java?
+135. Can an interface have a synchronized method with a final keyword in Java?
+136. How can we define an interface in Java that has a method that takes another interface as an argument?
+137. Can an interface have a default method that calls a private method in Java?
+138. What is the use of the 'assert' keyword in an interface in Java?
+139. Can an interface have a synchronized method with a static keyword in Java?
+140. How can we define an interface in Java that has methods that throw different exceptions?
+141. Can an interface have a default method with a final keyword and a static keyword in Java?
+142. What is the use of the 'strictfp' keyword in an interface method with a final keyword in Java?
+143. Can an interface have a synchronized method with a synchronized keyword in Java?
+144. How can we define an interface in Java that has a method that returns a functional interface?
+145. Can an interface have a method that overrides a method in Object class in Java?
+146. What is the use of the '@SafeVarargs' annotation in conjunction with interfaces in Java?
+147. Can an interface have a synchronized method with an abstract keyword in Java?
+148. How can we define an interface in Java that has a method with a generic return type?
+149. Can an interface have a method that has a default implementation in multiple interfaces in Java?
+150. What is the use of the '@Deprecated' annotation in an interface method in Java?
+151. Can an interface have a synchronized method with a private keyword in Java?
+152. How can we define an interface in Java that has a method that takes a generic argument?
+153. Can an interface have a method with a default access modifier and a static keyword in Java?
+154. What is the use of the '@Documented' annotation in conjunction with interfaces in Java?
+155. Can an interface have a synchronized method with a protected keyword in Java?
+156. How can we define an interface in Java that has a method that returns a generic type variable?
+157. Can an interface have two default methods with the same name and signature in Java?
+158. What is the use of the 'package-private' access modifier in an interface in Java?
+159. Can an interface have a synchronized method with a public keyword in Java?
+160. How can we define an interface in Java that has a method that takes a functional interface as an argument?
+161. Can an interface have a method with a default implementation that calls a private method in Java?
+162. What is the use of the 'Bridge Method' in an interface in Java?
+163. Can an interface have a synchronized method with a final keyword and an abstract keyword in Java?
+164. How can we define an interface in Java that has a method that has a lambda expression as an argument?
+165. Can an interface have a default method that calls a private static method in Java?
+166. What is the use of the '@Inherited' annotation in conjunction with interfaces in Java?
+167. Can an interface have a synchronized method with a final keyword and a static keyword in Java?
+168. How can we define an interface in Java that has a method that takes an array as an argument?
+169. Can an interface have a default method that has a lambda expression as the implementation in Java?
+170. What is the use of the 'Marker Interface' in Java?
+171. Can an interface have a synchronized method with a final keyword, a static keyword, and an abstract keyword in Java?
+172. How can we define an interface in Java that has a method that takes a parameterized class as an argument?
+173. Can an interface have a default method that calls a method of the same name in Object class in Java?
+174. What is the use of the '@Override' annotation in an interface method with a final keyword and an abstract keyword in Java?
+175. Can an interface have a synchronized method with a final keyword, a static keyword, and a default keyword in Java?
+176. How can we define an interface in Java that has a method that returns a parameterized class?
+177. Can an interface have a default method that calls a private method of the same interface in Java?
+178. What is the use of the '@FunctionalInterface' annotation with respect to the default methods in an interface in Java?
+179. Can an interface have a synchronized method with a final keyword, a static keyword, and a private keyword in Java?
+180. How can we define an interface in Java that has a method with a wildcard argument?
+181. Can an interface have a default method with a synchronized keyword, a final keyword, and an abstract keyword in Java?
+182. What is the use of the '@SuppressWarnings' annotation in an interface in Java?
+183. Can an interface have a synchronized method with a final keyword, a static keyword, and a protected keyword in Java?
+184. How can we define an interface in Java that has a method with a wildcard return type?
+185. Can an interface have a default method with a synchronized keyword, a final keyword, and a static keyword in Java?
+186. What is the use of the '@FunctionalInterface' annotation with respect to the marker interfaces in Java?
+187. Can an interface have a synchronized method with a final keyword, a static keyword, a default keyword, and a private keyword in Java?
+188. How can we define an interface in Java that has a method with a bounded type parameter?
+189. Can an interface have a default method with a synchronized keyword, a final keyword, a static keyword, and an abstract keyword in Java?
+190. What is the use of the 'Serializable' interface in Java?
+191. Can an interface have a synchronized method with a final keyword, a static keyword, a default keyword, and a protected keyword in Java?
+192. How can we define an interface in Java that has a method with a recursive type parameter?
+193. Can an interface have a default method with a synchronized keyword, a final keyword, a static keyword, and a private keyword in Java?
+194. What is the use of the 'Comparable' interface in Java?
+195. Can an interface have a synchronized method with a final keyword, a static keyword, a default keyword, and a public keyword in Java?
+196. How can we define an interface in Java that has a method with a generic type variable that extends a class?
+197. Can an interface have a default method with a synchronized keyword, a final keyword, a static keyword, an abstract keyword, and a private keyword in Java?
+198. What is the use of the 'Cloneable' interface in Java?
+199. Can an interface have a synchronized method with a final keyword, a static keyword, a default keyword, an abstract keyword, and a protected keyword in Java?
+200. How can we define an interface in Java that uses the parameterized class as the return type of a method?
+201. What is the use of the 'Marker Annotation' in Java?
+202. Can an interface have a default method with a synchronized keyword, a final keyword, a static keyword, an abstract keyword, and a protected keyword in Java?
+203. How can we define an interface in Java that has a method with a complex wildcard argument?
+204. Can an interface have a default method with a synchronized keyword, a final keyword, a static keyword, an abstract keyword, and a public keyword in Java?
+205. What is the use of the 'Functional Interface' in Java?
+206. Can an interface have a method that takes a functional interface with generic arguments in Java?
+207. Can an interface have a default method with a synchronized keyword, a final keyword, a static keyword, an abstract keyword, and a volatile keyword in Java?
+208. How can we define an interface in Java that has a method with multiple type parameters with different bounds?
+209. Can an interface have a default method with a synchronized keyword, a final keyword, a static keyword, an abstract keyword, and a transient keyword in Java?
+210. What is the use of the 'Annotation Interface' in Java?
+211. Can an interface have a default method with a synchronized keyword, a final keyword, a static keyword, an abstract keyword, and a synchronized keyword in Java?
+212. How can we define an interface in Java that has a method with multiple type parameters with a common bound?
+213. Can an interface have a default method with a synchronized keyword, a final keyword, a static keyword, an abstract keyword, and a native keyword in Java?
+214. What is the use of the 'Functional Interface with Multiple Abstract Methods' in Java?
+215. Can an interface have a default method with a synchronized keyword, a final keyword, a static keyword, an abstract keyword, and a strictfp keyword in Java?
+216. How can we define an interface in Java that has a method that takes a parameterized type with a wildcard argument?
+217. Can an interface have a default method with a synchronized keyword, a final keyword, a static keyword, a default keyword, and a protected keyword in Java?
+218. What is the use of the 'Marker Interface with Methods' in Java?
+219. Can an interface have a default method with a synchronized keyword, a final keyword, a static keyword, a default keyword, and a public keyword in Java?
+220. How can we define an interface in Java that has a default method with a complex
